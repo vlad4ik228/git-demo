@@ -2,3 +2,6 @@ some text
 some text
 another text
 and another
+
+i love text
+it's perfect
